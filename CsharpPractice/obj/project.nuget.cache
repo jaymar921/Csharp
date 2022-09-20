@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DpSYNqEyEs+XpdoLFWbD7wgEOw7hnLeJPIIMBNxLwvH8GxNmIjmT/RxThKdIOIv2IrIAwDa5DI1mt4IpP6aoFA==",
+  "success": true,
+  "projectFilePath": "D:\\Full Scale\\visual_studio\\source\\repos\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Full Scale\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

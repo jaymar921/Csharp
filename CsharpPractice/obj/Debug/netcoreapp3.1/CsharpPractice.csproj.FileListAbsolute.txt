@@ -1,0 +1,16 @@
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.exe
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.deps.json
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.runtimeconfig.json
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.runtimeconfig.dev.json
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.dll
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.pdb
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.csproj.AssemblyReference.cache
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.AssemblyInfoInputs.cache
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.AssemblyInfo.cs
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.csproj.CoreCompileInputs.cache
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.dll
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.pdb
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.genruntimeconfig.cache
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.csproj.CopyComplete
