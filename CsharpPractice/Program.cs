@@ -17,18 +17,67 @@ namespace CsharpPractice
             //UsingAStruct();
             //displayHexconvertion(56734);
 
-            Employee jayharron = new Employee("Jayharron Mar", "Abejar", "jay@email.com", new DateTime(2000, 09, 21), EmployeeType.Developer, 250);
+            Developer developer = new Developer("Jayharron Mar", "Abejar", "jay@email.com", new DateTime(2000, 09, 21), 32);
+            Manager manager = new Manager("Pia", "Abellana", "pia@email.com", new DateTime(2001, 11, 9), 30);
+            JuniorResearcher juniorResearcher = new JuniorResearcher("Rey", "de los Reyes", "rey@email.com", new DateTime(2000, 1, 1), 12);
+            Researcher researcher = new Researcher("Harold", "Cuico", "harold@email.com", new DateTime(2000, 1, 1), 27);
+            StoreManager storeManager = new StoreManager("Trisha", "Cempron", "trisha@email.com", new DateTime(2000, 1, 1), 28);
 
-            Employee.DisplayTaxRate();
-            
-            jayharron.DisplayEmployeeDetails();
-            jayharron.PerformWork();
-            jayharron.PerformWork();
-            jayharron.PerformWork();
-            jayharron.PerformWork();
-            jayharron.PerformWork();
-            jayharron.StopWorking();
-            jayharron.ReceiveWage();
+            //Employee.DisplayTaxRate();
+
+            //developer.DisplayEmployeeDetails();
+            //developer.PerformWork();
+            //developer.PerformWork();
+            //developer.PerformWork();
+            //developer.PerformWork();
+            //developer.PerformWork();
+            //developer.PerformWork();
+            //developer.PerformWork();
+            //developer.PerformWork();
+            //developer.StopWorking();
+            //developer.ReceiveWage();
+
+
+
+            //manager.DisplayEmployeeDetails();
+            //manager.AttendManagementMeeting(2);
+            //manager.PerformWork();
+            //manager.PerformWork();
+            //manager.AttendManagementMeeting(4);
+            //manager.ReceiveWage();
+
+            //juniorResearcher.DisplayEmployeeDetails();
+            //juniorResearcher.PerformWork();
+            //juniorResearcher.PerformWork();
+            //juniorResearcher.ResearchNewPieTastes(6);
+            //juniorResearcher.ReceiveWage();
+
+            //Console.WriteLine("\nGiving bonus to employees!");
+            //developer.GiveBonus();
+            //manager.GiveBonus();
+            //juniorResearcher.GiveBonus();
+
+            Employee[] employees = new Employee[5];
+            employees[0] = developer;
+            employees[1] = manager;
+            employees[2] = juniorResearcher;
+            employees[3] = researcher;
+            employees[4] = storeManager;
+
+            foreach(Employee employee in employees)
+            {
+                employee.PerformWork();
+
+                if (employee.GetType() == typeof(Manager))
+                    ((Manager)employee).AttendManagementMeeting(new Random().Next(1,5));
+
+                employee.ReceiveWage();
+                employee.DisplayEmployeeDetails();
+                employee.GiveBonus();
+
+                Console.WriteLine("----------------------------------------------------------");
+            }
+
 
         }
 
@@ -106,7 +155,7 @@ namespace CsharpPractice
 
         static int displayHexconvertion(int n)
         {
-            if(n > 0)
+            if (n > 0)
             {
                 int rem = n % 16;
                 switch (rem)
@@ -133,13 +182,14 @@ namespace CsharpPractice
                         Console.Write(rem);
                         break;
                 }
-                
+
                 return displayHexconvertion(n / 16);
             }
             return -1;
         }
 
-        static void e() {
+        static void e()
+        {
             int fn = 4;
             int sson = 100;
 
@@ -155,7 +205,7 @@ namespace CsharpPractice
             int tn = 100;
             double sson = tn / fn;
 
-            while(sn < tn)
+            while (sn < tn)
             {
                 if (sn == 10)
                     break;

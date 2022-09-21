@@ -4,7 +4,8 @@
     {
         Sales,
         Manager,
-        Research,
+        Researcher,
+        JuniorRearcher,
         StoreManager,
         Developer
     }

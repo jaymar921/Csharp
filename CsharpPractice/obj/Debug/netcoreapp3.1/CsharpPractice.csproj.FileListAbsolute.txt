@@ -14,3 +14,19 @@ D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\obj\Debug
 D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.genruntimeconfig.cache
 D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Full Scale\visual_studio\source\repos\CsharpPractice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.csproj.CopyComplete
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.exe
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.deps.json
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.runtimeconfig.json
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.runtimeconfig.dev.json
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.dll
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.pdb
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.csproj.AssemblyReference.cache
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.AssemblyInfoInputs.cache
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.AssemblyInfo.cs
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.csproj.CopyComplete
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.dll
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.pdb
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.genruntimeconfig.cache
