@@ -4,8 +4,9 @@ using System.Text;
 
 namespace CsharpPractice.HR
 {
-    public abstract class Employee
+    public abstract class Employee: IEmployee, IComparable
     {
+        private int id;
         private string firstName;
         private string lastName;
         private string email;
@@ -17,6 +18,7 @@ namespace CsharpPractice.HR
 
         public static double taxRate = 0.15;
 
+        public int Id { get { return id; } set { id = value; } }
         public string FirstName { get { return firstName; } set { firstName = value; } }
         public string LastName { get { return lastName; } set { lastName = value; } }
         public string Email { get { return email; } set { email = value; } }
@@ -71,6 +73,21 @@ namespace CsharpPractice.HR
         public virtual void GiveBonus()
         {
             Console.WriteLine($"{FirstName} {LastName} received a generic bonus of 100!");
+        }
+
+        public void GiveCompliment() 
+        {
+            Console.WriteLine($"Complimented {FirstName} {LastName}");
+        }
+
+        public int CompareTo(object obj)
+        {
+            var otherEmployee = (Employee)obj;
+            if (Id > otherEmployee.Id)
+                return 1;
+            else if (Id < otherEmployee.Id)
+                return -1;
+            return 0;
         }
     }
 }

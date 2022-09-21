@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using math = CsharpPractice.MathUtility;
 using CsharpPractice.HR;
 using CsharpPractice.Accounting;
@@ -57,12 +58,20 @@ namespace CsharpPractice
             //manager.GiveBonus();
             //juniorResearcher.GiveBonus();
 
-            Employee[] employees = new Employee[5];
-            employees[0] = developer;
-            employees[1] = manager;
-            employees[2] = juniorResearcher;
-            employees[3] = researcher;
-            employees[4] = storeManager;
+            developer.Id = 5;
+            manager.Id = 4;
+            juniorResearcher.Id = 3;
+            researcher.Id = 2;
+            storeManager.Id = 1;
+
+            List<IEmployee> employees = new List<IEmployee>();
+            employees.Add(developer);
+            employees.Add(manager);
+            employees.Add(juniorResearcher);
+            employees.Add(researcher);
+            employees.Add(storeManager);
+
+            employees.Sort();
 
             foreach(Employee employee in employees)
             {
