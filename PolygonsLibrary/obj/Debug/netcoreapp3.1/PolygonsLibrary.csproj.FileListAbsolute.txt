@@ -1,0 +1,9 @@
+C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\bin\Debug\netcoreapp3.1\PolygonsLibrary.deps.json
+C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\bin\Debug\netcoreapp3.1\PolygonsLibrary.dll
+C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\bin\Debug\netcoreapp3.1\PolygonsLibrary.pdb
+C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\obj\Debug\netcoreapp3.1\PolygonsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\obj\Debug\netcoreapp3.1\PolygonsLibrary.AssemblyInfoInputs.cache
+C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\obj\Debug\netcoreapp3.1\PolygonsLibrary.AssemblyInfo.cs
+C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\obj\Debug\netcoreapp3.1\PolygonsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\obj\Debug\netcoreapp3.1\PolygonsLibrary.dll
+C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\obj\Debug\netcoreapp3.1\PolygonsLibrary.pdb

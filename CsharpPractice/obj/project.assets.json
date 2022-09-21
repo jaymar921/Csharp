@@ -10,6 +10,16 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "PolygonsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PolygonsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PolygonsLibrary.dll": {}
+        }
       }
     }
   },
@@ -40,11 +50,17 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "PolygonsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PolygonsLibrary/Polygons.Library.csproj",
+      "msbuildProject": "../PolygonsLibrary/Polygons.Library.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Newtonsoft.Json >= 13.0.1"
+      "Newtonsoft.Json >= 13.0.1",
+      "PolygonsLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -78,7 +94,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\JayMar\\Desktop\\C#\\practice\\Csharp\\PolygonsLibrary\\Polygons.Library.csproj": {
+              "projectPath": "C:\\Users\\JayMar\\Desktop\\C#\\practice\\Csharp\\PolygonsLibrary\\Polygons.Library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

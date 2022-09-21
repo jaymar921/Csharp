@@ -30,3 +30,5 @@ C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.
 C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.dll
 C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.pdb
 C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.genruntimeconfig.cache
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\bin\Debug\netcoreapp3.1\PolygonsLibrary.dll
+C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\bin\Debug\netcoreapp3.1\PolygonsLibrary.pdb

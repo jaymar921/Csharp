@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>PolygonsLibrary</RootNamespace>
+    <AssemblyName>PolygonsLibrary</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Polygons.Library.csproj" />
+  </ItemGroup>
+
+</Project>
