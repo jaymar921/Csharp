@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JayMar\\Desktop\\C#\\practice\\Csharp\\CsharpPractice\\CsharpPractice.csproj",
+      "projectUniqueName": "D:\\Important\\Programming Langs\\C#\\charp_practice\\CsharpPractice\\CsharpPractice.csproj",
       "projectName": "CsharpPractice",
-      "projectPath": "C:\\Users\\JayMar\\Desktop\\C#\\practice\\Csharp\\CsharpPractice\\CsharpPractice.csproj",
+      "projectPath": "D:\\Important\\Programming Langs\\C#\\charp_practice\\CsharpPractice\\CsharpPractice.csproj",
       "packagesPath": "C:\\Users\\JayMar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JayMar\\Desktop\\C#\\practice\\Csharp\\CsharpPractice\\obj\\",
+      "outputPath": "D:\\Important\\Programming Langs\\C#\\charp_practice\\CsharpPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -95,8 +95,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\JayMar\\Desktop\\C#\\practice\\Csharp\\PolygonsLibrary\\Polygons.Library.csproj": {
-              "projectPath": "C:\\Users\\JayMar\\Desktop\\C#\\practice\\Csharp\\PolygonsLibrary\\Polygons.Library.csproj"
+            "D:\\Important\\Programming Langs\\C#\\charp_practice\\PolygonsLibrary\\Polygons.Library.csproj": {
+              "projectPath": "D:\\Important\\Programming Langs\\C#\\charp_practice\\PolygonsLibrary\\Polygons.Library.csproj"
             }
           }
         }

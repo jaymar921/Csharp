@@ -8,3 +8,13 @@ C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\obj\Debug\netcoreapp3
 C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\obj\Debug\netcoreapp3.1\Polygons.Library.csproj.CoreCompileInputs.cache
 C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\obj\Debug\netcoreapp3.1\PolygonsLibrary.dll
 C:\Users\JayMar\Desktop\C#\practice\Csharp\PolygonsLibrary\obj\Debug\netcoreapp3.1\PolygonsLibrary.pdb
+D:\Important\Programming Langs\C#\charp_practice\PolygonsLibrary\bin\Debug\netcoreapp3.1\PolygonsLibrary.deps.json
+D:\Important\Programming Langs\C#\charp_practice\PolygonsLibrary\bin\Debug\netcoreapp3.1\PolygonsLibrary.dll
+D:\Important\Programming Langs\C#\charp_practice\PolygonsLibrary\bin\Debug\netcoreapp3.1\PolygonsLibrary.pdb
+D:\Important\Programming Langs\C#\charp_practice\PolygonsLibrary\obj\Debug\netcoreapp3.1\Polygons.Library.csproj.AssemblyReference.cache
+D:\Important\Programming Langs\C#\charp_practice\PolygonsLibrary\obj\Debug\netcoreapp3.1\Polygons.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important\Programming Langs\C#\charp_practice\PolygonsLibrary\obj\Debug\netcoreapp3.1\Polygons.Library.AssemblyInfoInputs.cache
+D:\Important\Programming Langs\C#\charp_practice\PolygonsLibrary\obj\Debug\netcoreapp3.1\Polygons.Library.AssemblyInfo.cs
+D:\Important\Programming Langs\C#\charp_practice\PolygonsLibrary\obj\Debug\netcoreapp3.1\Polygons.Library.csproj.CoreCompileInputs.cache
+D:\Important\Programming Langs\C#\charp_practice\PolygonsLibrary\obj\Debug\netcoreapp3.1\PolygonsLibrary.dll
+D:\Important\Programming Langs\C#\charp_practice\PolygonsLibrary\obj\Debug\netcoreapp3.1\PolygonsLibrary.pdb

@@ -32,3 +32,21 @@ C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.
 C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.genruntimeconfig.cache
 C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\bin\Debug\netcoreapp3.1\PolygonsLibrary.dll
 C:\Users\JayMar\Desktop\C#\practice\Csharp\CsharpPractice\bin\Debug\netcoreapp3.1\PolygonsLibrary.pdb
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.exe
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.deps.json
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.runtimeconfig.json
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.runtimeconfig.dev.json
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.dll
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\bin\Debug\netcoreapp3.1\CsharpPractice.pdb
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\bin\Debug\netcoreapp3.1\PolygonsLibrary.dll
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\bin\Debug\netcoreapp3.1\PolygonsLibrary.pdb
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.csproj.AssemblyReference.cache
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.AssemblyInfoInputs.cache
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.AssemblyInfo.cs
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.csproj.CoreCompileInputs.cache
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.csproj.CopyComplete
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.dll
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.pdb
+D:\Important\Programming Langs\C#\charp_practice\CsharpPractice\obj\Debug\netcoreapp3.1\CsharpPractice.genruntimeconfig.cache

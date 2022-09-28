@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ow5XOQ1/TB24srH7fcwLPkpwnZbiZ9wTgFLv93Hi/NDR605xPJ7sUqZxGC+iSk06cLf7o3YM1NubGkw8UnsH0w==",
+  "dgSpecHash": "Kxw5F7lXyboHyk2JjkxrwX0fFkWPC8bte9cyDO528XQK3K5B6h54tYthk33Te/+4rrWPLRM7rsWA7W5jzJW0tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JayMar\\Desktop\\C#\\practice\\Csharp\\CsharpPractice\\CsharpPractice.csproj",
+  "projectFilePath": "D:\\Important\\Programming Langs\\C#\\charp_practice\\CsharpPractice\\CsharpPractice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JayMar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
