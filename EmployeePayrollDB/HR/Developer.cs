@@ -11,12 +11,11 @@ namespace EmployeePayrollDB.HR
             rate_per_hour = 250;
         }
 
-        public override int GeneratePayroll()
+        public override string GeneratePayroll()
         {
             // for developers, they will get Php 100 bonus when generating payroll
             int wage = rate_per_hour * hours_worked + 100;
-            Console.WriteLine($"wage of {hours_worked} hour(s) of work for {FirstName} is P{wage}");
-            return wage;
+            return $"wage of {hours_worked} hour(s) of work for {FirstName} is P{wage}";
         }
     }
 }

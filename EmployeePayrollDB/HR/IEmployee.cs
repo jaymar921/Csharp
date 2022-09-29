@@ -4,7 +4,7 @@ namespace EmployeePayrollDB.HR
 {
     public interface IEmployee
     {
-        int GeneratePayroll();
+        string GeneratePayroll();
         void ShowEmployeeData();
         void Work();
         void Work(int hours);

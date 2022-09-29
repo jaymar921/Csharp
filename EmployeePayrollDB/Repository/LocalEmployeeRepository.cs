@@ -22,7 +22,7 @@ namespace EmployeePayrollDB.Repository
         {
             foreach(Employee employee in employees)
             {
-                if(employee.FirstName.Contains(search) || employee.LastName.Contains(search) || Convert.ToString(employee.Id).Contains(search))
+                if(employee.FirstName.ToLower().Contains(search) || employee.LastName.ToLower().Contains(search) || Convert.ToString(employee.Id).Equals(search))
                 {
                     return employee;
                 }
@@ -57,6 +57,11 @@ namespace EmployeePayrollDB.Repository
             foreach (Employee employee in employees)
                 queries.Add($"INSERT INTO employee values ({employee.Id},'{employee.FirstName}','{employee.LastName}','{employee.BirthDate.Date.ToString("yyyy-MM-dd HH:mm:ss")}','{employee.Email}')");
             return queries;
+        }
+
+        public List<Employee> GetData() 
+        {
+            return employees;
         }
     }
 }

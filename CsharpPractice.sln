@@ -10,7 +10,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpPractice", "CsharpPra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polygons.Library", "PolygonsLibrary\Polygons.Library.csproj", "{3EFE9B6E-02C2-42D1-9575-05E7019B2DD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePayrollDB", "EmployeePayrollDB\EmployeePayrollDB.csproj", "{FDF4FF87-21C5-47E2-B455-0246A71B134A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeePayrollDB", "EmployeePayrollDB\EmployeePayrollDB.csproj", "{FDF4FF87-21C5-47E2-B455-0246A71B134A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePayrollWinForm", "EmployeePayrollWinForm\EmployeePayrollWinForm.csproj", "{F927D4DA-AEF7-4AA9-AFE0-6EEFF9D18121}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FDF4FF87-21C5-47E2-B455-0246A71B134A} = {FDF4FF87-21C5-47E2-B455-0246A71B134A}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,6 +35,10 @@ Global
 		{FDF4FF87-21C5-47E2-B455-0246A71B134A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDF4FF87-21C5-47E2-B455-0246A71B134A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDF4FF87-21C5-47E2-B455-0246A71B134A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F927D4DA-AEF7-4AA9-AFE0-6EEFF9D18121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F927D4DA-AEF7-4AA9-AFE0-6EEFF9D18121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F927D4DA-AEF7-4AA9-AFE0-6EEFF9D18121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F927D4DA-AEF7-4AA9-AFE0-6EEFF9D18121}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

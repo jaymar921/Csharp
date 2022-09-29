@@ -50,8 +50,30 @@ namespace EmployeePayrollDB
                             else localRepository.Register(new Manager(id, firstName, lastName, birthDate, email));
                             Console.WriteLine($"Registered Employee {id} to localRepository");
                             break;
-                        // generate payroll
+                        // remove employee
                         case 3:
+                            Console.Clear();
+                            Console.WriteLine("Remove Employee");
+                            Console.Write("Enter Employee details [search]: ");
+                            string search = Console.ReadLine();
+                            Employee employee_found = localRepository.GetEmployee(search);
+                            if(employee_found != null)
+                            {
+                                Console.Write($"Would you like to remove {employee_found.FirstName}? y/n: ");
+                                if (option()) 
+                                {
+                                    localRepository.Remove(employee_found);
+                                    Console.WriteLine("Removed {0}", employee_found.FirstName);
+                                }
+                            }
+                            else
+                            {
+                                Console.WriteLine("Could not find {0}", search);
+                            }
+                            Console.ReadKey();
+                            break;
+                        // generate payroll
+                        case 4:
                             Console.Clear();
                             Console.WriteLine("Generating employee payroll");
                             Console.Write("Enter Employee Info [ID, Name]: ");
@@ -64,7 +86,7 @@ namespace EmployeePayrollDB
                             }
                             break;
                         // save employee data into the db
-                        case 4:
+                        case 5:
                             Console.Clear();
                             using (var sql = new SQLConnect())
                             {
@@ -72,7 +94,7 @@ namespace EmployeePayrollDB
                             }
                             break;
                         // load employee data from db
-                        case 5:
+                        case 6:
                             Console.Clear();
                             using (var sql = new SQLConnect())
                             {
@@ -80,7 +102,7 @@ namespace EmployeePayrollDB
                             }
                             break;
                         // exit program
-                        case 6:
+                        case 7:
                             Console.Clear();
                             Console.WriteLine($"Program terminated...");
                             active = false;
@@ -98,11 +120,24 @@ namespace EmployeePayrollDB
             Console.WriteLine("\n------[ EMPLOYEE PAYROLL ] ------");
             Console.WriteLine("1. Show All Employees");
             Console.WriteLine("2. Register Employee");
-            Console.WriteLine("3. Generate Payroll");
-            Console.WriteLine("4. Save Employee Data to DB");
-            Console.WriteLine("5. Load Employee Data to DB");
-            Console.WriteLine("6. Exit");
+            Console.WriteLine("3. Remove Employee");
+            Console.WriteLine("4. Generate Payroll");
+            Console.WriteLine("5. Save Employee Data to DB");
+            Console.WriteLine("6. Load Employee Data to DB");
+            Console.WriteLine("7. Exit");
             Console.Write("Option --> ");
+        }
+
+        private static bool option() {
+            try
+            {
+                string option = Console.ReadLine();
+                return option.ToLowerInvariant().Contains("y");
+            }
+            catch
+            {
+                return false;
+            }
         }
     }
 }

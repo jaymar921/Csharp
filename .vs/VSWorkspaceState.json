@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EmployeePayrollDB",
+    "\\EmployeePayrollDB\\Database"
   ],
+  "SelectedNode": "\\EmployeePayrollDB\\Database\\SQLConnect.cs",
   "PreviewInSolutionExplorer": false
 }

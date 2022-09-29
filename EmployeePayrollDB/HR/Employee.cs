@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EmployeePayrollDB.HR
 {
-    public abstract class Employee: IEmployee
+    public abstract class Employee: IEmployee, IComparable
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -23,7 +23,7 @@ namespace EmployeePayrollDB.HR
             Email = email;
         }
 
-        public abstract int GeneratePayroll();
+        public abstract string GeneratePayroll();
 
         public void Work() 
         {
@@ -38,6 +38,22 @@ namespace EmployeePayrollDB.HR
         public void ShowEmployeeData()
         {
             Console.WriteLine($"\nEmployee ID: {Id}\nFirstName: {FirstName}\nLastName: {LastName}\nBirthDate: {BirthDate.ToShortDateString()}\nEmail: {Email}\nHour(s) Worked: {hours_worked}\n");
+        }
+
+        public override string ToString()
+        {
+            return string.Format("ID: {0,-7} | FirstName: {1,-25} | LastName: {2,-15} | BirthDate: {3,-8} | Email: {4,-25} | Hour(s) worked: {5,-5}", Id, FirstName, LastName, BirthDate.ToShortDateString(), Email, hours_worked);
+        }
+
+        public int CompareTo(object obj)
+        {
+            Employee Temp = (Employee)obj;
+            if (this.Id > Temp.Id)
+                return 1;
+            if (this.Id < Temp.Id)
+                return -1;
+            else
+                return 0;
         }
     }
 }

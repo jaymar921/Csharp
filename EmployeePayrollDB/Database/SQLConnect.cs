@@ -65,6 +65,8 @@ namespace EmployeePayrollDB.Database
                 return false;
             }
 
+            employeeRepository.Clear();
+
             try
             {
                 string query = "SELECT * FROM employee";
