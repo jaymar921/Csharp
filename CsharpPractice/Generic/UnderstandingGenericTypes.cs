@@ -19,9 +19,46 @@ namespace CsharpPractice.Generic
          * are Student because there is also another type of Person which
          * is a Teacher
          */
-        Person p1 = new Student();
-        Person p2 = new Student();
-        Person p3 = new Teacher();
+
+        void understandingCovarianceAndContraVariance()
+        {
+            /*
+            * Covariance
+            * 
+            * All Person can be a type of its derived class like [Student and Teacher]
+            * 
+            * but we cannot assign the derived class directly to be the least derive class [parent]
+            * 
+            * p4 = s1;  -- person4 can be a student1
+            * p2 = t1;  -- person2 can be a teacher1
+            * 
+            * MORE DERIVED TYPE COMPONENT CAN BE ASSIGNED TO A LESS DERIVED TYPE
+            */
+            // covariant
+            Person p1 = new Student();
+            Person p2 = new Student();
+            Person p3 = new Teacher();
+
+            // invariant - you are assigning the same type itself, person = new person or student = new student
+            Person p4 = new Person();
+            Student s1 = new Student();
+            Teacher t1 = new Teacher();
+
+            p4 = s1;
+            p2 = t1;
+            //t1 = p1; -- cannot
+
+            /*
+             * Contravariance
+             * 
+             * Less derived type component can be assigned to a more derived type component
+             */
+            Action<Student> studentInfo = GetStudentInfo;
+            Action<Person> personInfo = GetPersonInfo;
+
+            studentInfo = personInfo;
+            // personInfo = studentInfo; -- cannot
+        }
 
         /*
          * If you are assigning a more derived class to a less derived class
@@ -40,7 +77,11 @@ namespace CsharpPractice.Generic
          * cannot return any object of generic class type
          */
         IContravariant<Teacher> contravariant = new Contravariant<Person>();
-        
+
+
+        // contravariant
+        void GetStudentInfo(Student student) { }
+        void GetPersonInfo(Person person) { }
     }
 
     interface ICovariant<out T>

@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\EmployeePayrollDB",
     "\\EmployeePayrollDB\\Database",
-    "\\EmployeePayrollWinForm",
     "\\Test",
     "\\Test\\ACM.BLTest"
   ],
