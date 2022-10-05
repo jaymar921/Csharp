@@ -12,10 +12,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polygons.Library", "Polygon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeePayrollDB", "EmployeePayrollDB\EmployeePayrollDB.csproj", "{FDF4FF87-21C5-47E2-B455-0246A71B134A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePayrollWinForm", "EmployeePayrollWinForm\EmployeePayrollWinForm.csproj", "{F927D4DA-AEF7-4AA9-AFE0-6EEFF9D18121}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeePayrollWinForm", "EmployeePayrollWinForm\EmployeePayrollWinForm.csproj", "{F927D4DA-AEF7-4AA9-AFE0-6EEFF9D18121}"
 	ProjectSection(ProjectDependencies) = postProject
 		{FDF4FF87-21C5-47E2-B455-0246A71B134A} = {FDF4FF87-21C5-47E2-B455-0246A71B134A}
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.BL", "ACM.BL\ACM.BL.csproj", "{25589738-36F3-4CA9-9740-AC77588E86BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{4066E37F-9B95-45DD-AA65-0DF3121E40AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.BLTest", "Test\ACM.BLTest\ACM.BLTest.csproj", "{209845C1-89A9-47B0-BEFE-ED2D8766323D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,9 +45,20 @@ Global
 		{F927D4DA-AEF7-4AA9-AFE0-6EEFF9D18121}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F927D4DA-AEF7-4AA9-AFE0-6EEFF9D18121}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F927D4DA-AEF7-4AA9-AFE0-6EEFF9D18121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25589738-36F3-4CA9-9740-AC77588E86BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25589738-36F3-4CA9-9740-AC77588E86BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25589738-36F3-4CA9-9740-AC77588E86BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25589738-36F3-4CA9-9740-AC77588E86BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209845C1-89A9-47B0-BEFE-ED2D8766323D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209845C1-89A9-47B0-BEFE-ED2D8766323D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209845C1-89A9-47B0-BEFE-ED2D8766323D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209845C1-89A9-47B0-BEFE-ED2D8766323D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{209845C1-89A9-47B0-BEFE-ED2D8766323D} = {4066E37F-9B95-45DD-AA65-0DF3121E40AF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A65A5E66-39CA-4758-81EF-75BF1B113E27}

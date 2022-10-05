@@ -1,0 +1,16 @@
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\bin\Debug\ACM.BL.dll
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\bin\Debug\ACM.BL.pdb
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.AssemblyReference.cache
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CoreCompileInputs.cache
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+D:\Important\Programming Langs\C#\charp_practice\Test\ACM.BLTest\obj\Debug\ACM.BLTest.pdb

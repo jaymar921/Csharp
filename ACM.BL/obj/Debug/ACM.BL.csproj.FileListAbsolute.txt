@@ -1,0 +1,6 @@
+D:\Important\Programming Langs\C#\charp_practice\ACM.BL\bin\Debug\ACM.BL.dll
+D:\Important\Programming Langs\C#\charp_practice\ACM.BL\bin\Debug\ACM.BL.pdb
+D:\Important\Programming Langs\C#\charp_practice\ACM.BL\obj\Debug\ACM.BL.csproj.AssemblyReference.cache
+D:\Important\Programming Langs\C#\charp_practice\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+D:\Important\Programming Langs\C#\charp_practice\ACM.BL\obj\Debug\ACM.BL.dll
+D:\Important\Programming Langs\C#\charp_practice\ACM.BL\obj\Debug\ACM.BL.pdb

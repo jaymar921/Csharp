@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\EmployeePayrollDB",
-    "\\EmployeePayrollDB\\Database"
+    "\\EmployeePayrollDB\\Database",
+    "\\EmployeePayrollWinForm",
+    "\\Test",
+    "\\Test\\ACM.BLTest"
   ],
-  "SelectedNode": "\\EmployeePayrollDB\\Database\\SQLConnect.cs",
+  "SelectedNode": "\\Test\\ACM.BLTest\\RepositoryTest.cs",
   "PreviewInSolutionExplorer": false
 }
