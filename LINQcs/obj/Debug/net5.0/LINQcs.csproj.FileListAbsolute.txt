@@ -1,0 +1,16 @@
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\bin\Debug\net5.0\LINQcs.exe
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\bin\Debug\net5.0\LINQcs.deps.json
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\bin\Debug\net5.0\LINQcs.runtimeconfig.json
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\bin\Debug\net5.0\LINQcs.runtimeconfig.dev.json
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\bin\Debug\net5.0\LINQcs.dll
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\bin\Debug\net5.0\ref\LINQcs.dll
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\bin\Debug\net5.0\LINQcs.pdb
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\obj\Debug\net5.0\LINQcs.csproj.AssemblyReference.cache
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\obj\Debug\net5.0\LINQcs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\obj\Debug\net5.0\LINQcs.AssemblyInfoInputs.cache
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\obj\Debug\net5.0\LINQcs.AssemblyInfo.cs
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\obj\Debug\net5.0\LINQcs.csproj.CoreCompileInputs.cache
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\obj\Debug\net5.0\LINQcs.dll
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\obj\Debug\net5.0\ref\LINQcs.dll
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\obj\Debug\net5.0\LINQcs.pdb
+D:\Important\Programming Langs\C#\charp_practice\LINQcs\obj\Debug\net5.0\LINQcs.genruntimeconfig.cache
