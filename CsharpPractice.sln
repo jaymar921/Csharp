@@ -23,7 +23,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{4066E37F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.BLTest", "Test\ACM.BLTest\ACM.BLTest.csproj", "{209845C1-89A9-47B0-BEFE-ED2D8766323D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQcs", "LINQcs\LINQcs.csproj", "{E6431F24-5B0C-487E-9512-5D249FB5E95D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQcs", "LINQcs\LINQcs.csproj", "{E6431F24-5B0C-487E-9512-5D249FB5E95D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{CFD9D143-5A84-4601-B7F1-B1BDBD9DFA2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{E6431F24-5B0C-487E-9512-5D249FB5E95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6431F24-5B0C-487E-9512-5D249FB5E95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6431F24-5B0C-487E-9512-5D249FB5E95D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD9D143-5A84-4601-B7F1-B1BDBD9DFA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD9D143-5A84-4601-B7F1-B1BDBD9DFA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD9D143-5A84-4601-B7F1-B1BDBD9DFA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD9D143-5A84-4601-B7F1-B1BDBD9DFA2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

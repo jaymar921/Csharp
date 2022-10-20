@@ -1,0 +1,14 @@
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.exe
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.deps.json
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.json
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.dev.json
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.dll
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.pdb
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.csproj.AssemblyReference.cache
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfoInputs.cache
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfo.cs
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.dll
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.pdb
+D:\Important\Programming Langs\C#\charp_practice\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.genruntimeconfig.cache
