@@ -1,0 +1,17 @@
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\bin\Debug\net7.0\AsyncAwaitConsole.exe
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\bin\Debug\net7.0\AsyncAwaitConsole.deps.json
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\bin\Debug\net7.0\AsyncAwaitConsole.runtimeconfig.json
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\bin\Debug\net7.0\AsyncAwaitConsole.dll
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\bin\Debug\net7.0\AsyncAwaitConsole.pdb
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\obj\Debug\net7.0\AsyncAwaitConsole.csproj.AssemblyReference.cache
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\obj\Debug\net7.0\AsyncAwaitConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\obj\Debug\net7.0\AsyncAwaitConsole.AssemblyInfoInputs.cache
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\obj\Debug\net7.0\AsyncAwaitConsole.AssemblyInfo.cs
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\obj\Debug\net7.0\AsyncAwaitConsole.csproj.CoreCompileInputs.cache
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\obj\Debug\net7.0\AsyncAwaitConsole.csproj.CopyComplete
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\obj\Debug\net7.0\AsyncAwaitConsole.dll
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\obj\Debug\net7.0\refint\AsyncAwaitConsole.dll
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\obj\Debug\net7.0\AsyncAwaitConsole.pdb
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\obj\Debug\net7.0\AsyncAwaitConsole.genruntimeconfig.cache
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\AsyncAwaitConsole\obj\Debug\net7.0\ref\AsyncAwaitConsole.dll

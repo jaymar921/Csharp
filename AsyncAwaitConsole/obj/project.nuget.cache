@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fxJzgiY8HFmffqnpPLiDG+BIqD244O4C+D7CUYRtHgDZcogdrUDzR63WboS12g2kjyKi60oxz51FfXhySff6Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jayha\\OneDrive\\Desktop\\c hashtag\\Csharp\\AsyncAwaitConsole\\AsyncAwaitConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
