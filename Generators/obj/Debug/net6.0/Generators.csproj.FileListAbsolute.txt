@@ -1,0 +1,15 @@
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\obj\Debug\net6.0\Generators.csproj.AssemblyReference.cache
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\obj\Debug\net6.0\Generators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\obj\Debug\net6.0\Generators.AssemblyInfoInputs.cache
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\obj\Debug\net6.0\Generators.AssemblyInfo.cs
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\obj\Debug\net6.0\Generators.csproj.CoreCompileInputs.cache
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\bin\Debug\net6.0\Generators.exe
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\bin\Debug\net6.0\Generators.deps.json
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\bin\Debug\net6.0\Generators.runtimeconfig.json
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\bin\Debug\net6.0\Generators.dll
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\bin\Debug\net6.0\Generators.pdb
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\obj\Debug\net6.0\Generators.dll
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\obj\Debug\net6.0\refint\Generators.dll
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\obj\Debug\net6.0\Generators.pdb
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\obj\Debug\net6.0\Generators.genruntimeconfig.cache
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\Generators\obj\Debug\net6.0\ref\Generators.dll
