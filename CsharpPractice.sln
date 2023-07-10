@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQcs", "LINQcs\LINQcs.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{CFD9D143-5A84-4601-B7F1-B1BDBD9DFA2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitConsole", "AsyncAwaitConsole\AsyncAwaitConsole.csproj", "{F4983951-8B69-4546-83AA-9FE7D6143073}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwaitConsole", "AsyncAwaitConsole\AsyncAwaitConsole.csproj", "{F4983951-8B69-4546-83AA-9FE7D6143073}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generators", "Generators\Generators.csproj", "{C2629EA6-93B9-43BD-8FDE-BCF5CB76225B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generators", "Generators\Generators.csproj", "{C2629EA6-93B9-43BD-8FDE-BCF5CB76225B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPattern", "RepositoryPattern\RepositoryPattern.csproj", "{A9C48B18-C756-43CF-AA6A-C9A768F11915}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,6 +79,10 @@ Global
 		{C2629EA6-93B9-43BD-8FDE-BCF5CB76225B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2629EA6-93B9-43BD-8FDE-BCF5CB76225B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2629EA6-93B9-43BD-8FDE-BCF5CB76225B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C48B18-C756-43CF-AA6A-C9A768F11915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C48B18-C756-43CF-AA6A-C9A768F11915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C48B18-C756-43CF-AA6A-C9A768F11915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C48B18-C756-43CF-AA6A-C9A768F11915}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

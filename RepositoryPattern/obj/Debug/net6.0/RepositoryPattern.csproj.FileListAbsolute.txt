@@ -1,0 +1,15 @@
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\bin\Debug\net6.0\RepositoryPattern.exe
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\bin\Debug\net6.0\RepositoryPattern.deps.json
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\bin\Debug\net6.0\RepositoryPattern.runtimeconfig.json
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\bin\Debug\net6.0\RepositoryPattern.dll
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\bin\Debug\net6.0\RepositoryPattern.pdb
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\obj\Debug\net6.0\RepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\obj\Debug\net6.0\RepositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\obj\Debug\net6.0\RepositoryPattern.AssemblyInfoInputs.cache
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\obj\Debug\net6.0\RepositoryPattern.AssemblyInfo.cs
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\obj\Debug\net6.0\RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\obj\Debug\net6.0\RepositoryPattern.dll
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\obj\Debug\net6.0\refint\RepositoryPattern.dll
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\obj\Debug\net6.0\RepositoryPattern.pdb
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\obj\Debug\net6.0\RepositoryPattern.genruntimeconfig.cache
+C:\Users\jayha\OneDrive\Desktop\c hashtag\Csharp\RepositoryPattern\obj\Debug\net6.0\ref\RepositoryPattern.dll
