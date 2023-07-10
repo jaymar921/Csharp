@@ -2,7 +2,7 @@
 
 namespace RepositoryPattern.Repositories.AnimalRepo
 {
-    public class AnimalRepository : IRepository<Animal>
+    public class AnimalRepository : IAnimalRepository
     {
         private LinkedList<Animal> Animals;
         public AnimalRepository() 
@@ -12,6 +12,15 @@ namespace RepositoryPattern.Repositories.AnimalRepo
         public void Add(Animal entity)
         {
             Animals.AddLast(entity);
+        }
+
+        public void AnimalDance()
+        {
+            Console.WriteLine("[Dancing Animals]");
+            Animals.ToList().ForEach(
+                a => Console.WriteLine($"{a.Name} is dancing")
+            );
+            Console.WriteLine("...[End of Dancing]...");
         }
 
         public void Delete(int id)

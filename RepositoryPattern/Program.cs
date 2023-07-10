@@ -23,6 +23,8 @@ namespace RepositoryPattern
 
             personRepository.DisplayData();
             animalRepository.DisplayData();
+
+            ((IAnimalRepository)animalRepository).AnimalDance();
             
         }
     }
